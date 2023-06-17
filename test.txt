@@ -4,4 +4,3 @@ zmiana w Branch
 jeszcze zmiana
 kolejna
 dla rebase'a
-jeszcze próba
