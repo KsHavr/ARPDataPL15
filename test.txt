@@ -3,3 +3,4 @@ Krok 2
 zmiana w Branch
 jeszcze zmiana
 kolejna
+dla rebase'a
