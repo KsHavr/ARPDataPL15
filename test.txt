@@ -2,3 +2,4 @@ Krok 1
 Krok 2
 zmiana w Branch
 jeszcze zmiana
+kolejna
